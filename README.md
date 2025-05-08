@@ -97,9 +97,7 @@ int main() {
     return 0;
 }
 ```
-
 ## Output:
-
 
 
 ![Screenshot 2025-05-08 082554](https://github.com/user-attachments/assets/418ed2bd-eb16-4bab-bdbc-e1b927b3be81)
